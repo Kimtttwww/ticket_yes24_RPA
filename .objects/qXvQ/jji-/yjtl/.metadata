@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 예스24 티켓",
+  "Type": "Screen",
+  "Id": "yjtlECdnskCy8i5D4LMqcQ",
+  "Reference": "Mb99QC7ADEGcFE8Ixu4qDA/yjtlECdnskCy8i5D4LMqcQ",
+  "ParentRef": "Mb99QC7ADEGcFE8Ixu4qDA/jji-XEHuLU28dK-TfQH0_Q",
+  "Created": "2024-11-07T05:53:31.9069621Z",
+  "Updated": "2024-11-07T05:53:31.9069621Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
